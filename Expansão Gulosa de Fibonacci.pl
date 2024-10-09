@@ -1,8 +1,3 @@
-% RA1 - Problemas Prolog
-% Isabella, Michele e Yejin
-
-%%%%%% Problema 1: Expansão Gulosa de Fibonacci %%%%%%
-% FATOS: conjunto de pedras do jogo
 
 % Verifica se X ou Y é um inteiro positivo
 inteiro_positivo(X) :- 
